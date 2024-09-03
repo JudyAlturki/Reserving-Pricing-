@@ -1,6 +1,6 @@
 # Reserving-Pricing-
 The code for the reserving and premium of a life policy final project 
-The quistions were : 
+The questions were : 
 Consider a permanent disability model with three states: State 0: Healthy, State 1: Permanently disabled, and State 2 : Dead. Suppose that 
 μ01 =A+Beax, μ02 =Cebx, μ12 =μ02 for x>0 - Makeham law of mortality -
 An insurance company uses the model to calculate premiums for a 20–year term insurance policy issued to a life aged 30 who is now healthy. The death benefit is S, payable at the moment of death. Premiums are payable monthly in advance provided that the policyholder is healthy.
